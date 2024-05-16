@@ -1,0 +1,341 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "FACEBOOK",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "1903732613393642_1903733083393595x",
+      "main_ads_intertitial":"1903732613393642_1903733163393587x",
+      "main_ads_rewards":"null",
+      "main_ads_natives":"1903732613393642_1903733223393581x",
+      "backup_ads_banner":"ca-app-pub-3940256099942544/6300978111",
+      "backup_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
+      "backup_ads_natives":"null",
+      "open_ads_admob":"null",
+      "open_ads_alien":"null",
+      "open_ads_max":"null",
+      "interval_intertitial": 5,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+   
+    }
+  ],
+   "More":
+  [
+    {
+			"id": 1,
+			"title": "Cool Aesthetic Wallpaper ",
+			"image": "https://play-lh.googleusercontent.com/0vy-dKP22kEam_9yOnAWpCiDqHug5PhNx5A6y04muBlw0Svy6OuHZTq1XDho8S1rtqTd=w240-h480-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.rintjong.wallpaperaesthetic"
+		},
+		{
+			"id": 2,
+			"title": "4K HD Wallpapers",
+			"image": "https://play-lh.googleusercontent.com/-dVTrS8scTittKLTqffmgQ65t2y4EP-lMRdcYEc2XlG_upCuNunFt6SCacfQz1c0tA=w240-h480-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.rintjong.hdwallpaper4k"
+		},
+		{
+			"id": 3,
+			"title": "Islamic Aesthetic Wallpaper",
+			"image": "https://play-lh.googleusercontent.com/EsxGalCWZAKvCBaY1UOldvz1oWIasRdQs10aH9Zegj_qY2Hwr7_z1V3xSRQLIlhvAW8=w240-h480-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.rintjong.islamicwallpaper4k"
+		}
+	],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Sunset",
+      "image": "https://i.pinimg.com/564x/54/77/43/547743fa809874a87d8f4cc1abf37f17.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "Sunset",
+      "title":"Sunset",
+      "image":"https://i.pinimg.com/564x/2e/9f/b9/2e9fb9d388282d138a97c82d80fb8eb9.jpg","lock":false
+    },
+    {
+      "id": 2,
+      "name_category": "Sunset",
+      "title": "Sunset",
+      "image": "https://i.pinimg.com/564x/c1/0a/6d/c10a6dff3ab36eb5953047b0d894f285.jpg","lock":false
+    },
+    {
+      "id":3,
+      "name_category": "Sunset",
+      "title":"Sunset",
+      "image":"https://i.pinimg.com/564x/db/df/84/dbdf84d4c7ada3a1922f343edea5cb5d.jpg","lock":false
+    },
+    {
+      "id":4,
+      "name_category": "Sunset",
+      "title":"Sunset",
+      "image":"https://i.pinimg.com/564x/7c/36/1f/7c361f251ff9647402e58a426b3ab27f.jpg","lock":false
+    },
+    {
+      "id":5,
+      "name_category": "Sunset",
+      "title":"Sunset",
+      "image":"https://i.pinimg.com/564x/e2/89/d3/e289d3a4bd939488932651be8ec65db8.jpg","lock":false
+    },
+    {
+      "id":6,
+      "name_category": "Sunset",
+      "title":"Sunset",
+      "image":"https://i.pinimg.com/564x/f8/dd/7c/f8dd7c4c8c6aab3cc23040957ba0e427.jpg","lock":false
+    },
+	{
+      "id":7,
+      "name_category": "Sunset",
+      "title":"Sunset",
+      "image":"https://i.pinimg.com/564x/0a/54/5b/0a545bc79bc0a0e335a5cdc11f911ba9.jpg","lock":false
+    },
+    {
+      "id": 8,
+      "name_category": "Sunset",
+      "title": "Sunset",
+      "image": "https://i.pinimg.com/564x/12/1b/23/121b239bbb0b35798523726d701d57ee.jpg","lock":false
+    },
+    {
+      "id":9,
+      "name_category": "Sunset",
+      "title":"Sunset",
+      "image":"https://i.pinimg.com/564x/92/64/8f/92648f5303436d1b6042d4748f21409b.jpg","lock":false
+    },
+    {
+      "id":10,
+      "name_category": "Sunset",
+      "title":"Sunset",
+      "image":"https://i.pinimg.com/564x/a2/f5/bb/a2f5bb98d73319991d33e6b56c1c3e41.jpg","lock":false
+    },
+    {
+      "id":11,
+      "name_category": "Sunset",
+      "title":"Sunset",
+      "image":"https://i.pinimg.com/564x/cc/78/75/cc78751e2d89a1c699a2b3dcd5d8e833.jpg","lock":false
+    },
+	{
+      "id":12,
+      "name_category": "Sunset",
+      "title":"Sunset",
+      "image":"https://i.pinimg.com/564x/54/77/43/547743fa809874a87d8f4cc1abf37f17.jpg","lock":false
+    },
+    {
+      "id": 13,
+      "name_category": "Sunset",
+      "title": "Sunset",
+      "image": "https://i.pinimg.com/564x/c1/9a/cb/c19acb3c492dfbc7a7468bc0cfec1f72.jpg","lock":false
+    },
+    {
+      "id":14,
+      "name_category": "Sunset",
+      "title":"Sunset",
+      "image":"https://i.pinimg.com/564x/99/d4/33/99d433726b15aee004c6ff19a01098db.jpg","lock":false
+    },
+    {
+      "id":15,
+      "name_category": "Sunset",
+      "title":"Sunset",
+      "image":"https://i.pinimg.com/564x/d2/2e/8b/d22e8bdbe0b91720bc08c96caab94172.jpg","lock":false
+    },
+    {
+      "id":16,
+      "name_category": "Sunset",
+      "title":"Sunset",
+      "image":"https://i.pinimg.com/564x/ea/b8/bf/eab8bf49d28ec45ba2f174dacd16b994.jpg","lock":false
+    },
+    {
+      "id":17,
+      "name_category": "Sunset",
+      "title":"Sunset",
+      "image":"https://i.pinimg.com/564x/9d/47/05/9d4705bcae61beef6becbded13af1ed0.jpg","lock":false
+    },
+	{
+      "id":18,
+      "name_category": "Sunset",
+      "title":"Sunset",
+      "image":"https://i.pinimg.com/564x/95/a1/c9/95a1c9faa0334fc9516c6b9056648d7b.jpg","lock":false
+    },
+    {
+      "id": 19,
+      "name_category": "Sunset",
+      "title": "Sunset",
+      "image": "https://i.pinimg.com/564x/e3/74/84/e3748430f12c50ecba55fbf299d5e35f.jpg","lock":false
+    },
+    {
+      "id":20,
+      "name_category": "Sunset",
+      "title":"Sunset",
+      "image":"https://i.pinimg.com/564x/68/31/b1/6831b1a7dbfafe3033313d420295d97e.jpg","lock":false
+    },
+    {
+      "id":21,
+      "name_category": "Sunset",
+      "title":"Sunset",
+      "image":"https://i.pinimg.com/564x/46/54/d3/4654d3dde71892834b0e2c51d3fe48e5.jpg","lock":false
+    },
+    {
+      "id":22,
+      "name_category": "Sunset",
+      "title":"Sunset",
+      "image":"https://i.pinimg.com/564x/97/a5/09/97a509e53f4f0e75f22dbf8d23c2fa54.jpg","lock":false
+    },
+	{
+      "id":23,
+      "name_category": "Sunset",
+      "title":"Sunset",
+      "image":"https://i.pinimg.com/564x/fd/27/98/fd2798ffe73b546d3f43d2aaddebf25a.jpg","lock":false
+    },
+    {
+      "id": 24,
+      "name_category": "Sunset",
+      "title": "Sunset",
+      "image": "https://i.pinimg.com/564x/fa/2f/65/fa2f65256a2746551e598371057c795c.jpg","lock":false
+    },
+    {
+      "id":25,
+      "name_category": "Sunset",
+      "title":"Sunset",
+      "image":"https://i.pinimg.com/564x/ca/88/24/ca8824eb041c4a8619715b83c9f7b787.jpg","lock":false
+    },
+    {
+      "id":26,
+      "name_category": "Sunset",
+      "title":"Sunset",
+      "image":"https://i.pinimg.com/564x/cf/ef/fc/cfeffc7f2dc1671c9ee79f3f35b323dc.jpg","lock":false
+    },
+    {
+      "id":27,
+      "name_category": "Sunset",
+      "title":"Sunset",
+      "image":"https://i.pinimg.com/564x/21/81/fe/2181fe04fdf7414dd0fa7a037d54ef24.jpg","lock":false
+    },
+    {
+      "id":28,
+      "name_category": "Sunset",
+      "title":"Sunset",
+      "image":"https://i.pinimg.com/564x/2c/1a/f3/2c1af3cef809c8a1c1f5ba102c509e3c.jpg","lock":false
+    },
+	{
+      "id":29,
+      "name_category": "Sunset",
+      "title":"Sunset",
+      "image":"https://i.pinimg.com/564x/f7/33/67/f73367a146cb79cb383b34dbf91f1128.jpg","lock":false
+    },
+    {
+      "id": 30,
+      "name_category": "Sunset",
+      "title": "Sunset",
+      "image": "https://i.pinimg.com/564x/e6/f8/d2/e6f8d27a7b453f47c65e6e45128dd345.jpg","lock":false
+    },
+    {
+      "id":31,
+      "name_category": "Sunset",
+      "title":"Sunset",
+      "image":"https://i.pinimg.com/564x/bd/e7/d8/bde7d8872d7d807c876b4d775a830981.jpg","lock":false
+    },
+    {
+      "id":32,
+      "name_category": "Sunset",
+      "title":"Sunset",
+      "image":"https://i.pinimg.com/564x/18/33/24/183324d4102bd1e70c0a2807eea6eeba.jpg","lock":false
+    },
+	{
+      "id":33,
+      "name_category": "Sunset",
+      "title":"Sunset",
+      "image":"https://i.pinimg.com/564x/68/c8/48/68c848cad12c4d96617746d2d850b904.jpg","lock":false
+    },
+    {
+      "id": 34,
+      "name_category": "Sunset",
+      "title": "Sunset",
+      "image": "https://i.pinimg.com/564x/0b/c4/88/0bc4887078252961a7daad9a926efac7.jpg","lock":false
+    },
+    {
+      "id":35,
+      "name_category": "Sunset",
+      "title":"Sunset",
+      "image":"https://i.pinimg.com/564x/ad/0d/df/ad0ddf584d95c1414d845c5557ed1a77.jpg","lock":false
+    },
+    {
+      "id":36,
+      "name_category": "Sunset",
+      "title":"Sunset",
+      "image":"https://i.pinimg.com/564x/c3/a6/92/c3a692192fd3512815098eefffb3884a.jpg","lock":false
+    },
+    {
+      "id":37,
+      "name_category": "Sunset",
+      "title":"Sunset",
+      "image":"https://i.pinimg.com/564x/a1/12/67/a112674484b9f7e7c9b91ef65fe87583.jpg","lock":false
+    },
+    {
+      "id":38,
+      "name_category": "Sunset",
+      "title":"Sunset",
+      "image":"https://i.pinimg.com/564x/0a/71/df/0a71dfe9c6b8644eb6ab10a12d09c1a9.jpg","lock":false
+    },
+	{
+      "id":39,
+      "name_category": "Sunset",
+      "title":"Sunset",
+      "image":"https://i.pinimg.com/564x/a7/e7/b0/a7e7b0db20bc6e6ceee1ff2ff795bc93.jpg","lock":false
+    },
+    {
+      "id": 40,
+      "name_category": "Sunset",
+      "title": "Sunset",
+      "image": "https://i.pinimg.com/564x/0c/4c/41/0c4c41a4340b0dba682a7daf37e4c5ee.jpg","lock":false
+    },
+    {
+      "id":41,
+      "name_category": "Sunset",
+      "title":"Sunset",
+      "image":"https://i.pinimg.com/564x/e6/43/4f/e6434f4850a6da592562a3e45feb0ad6.jpg","lock":false
+    },
+    {
+      "id":42,
+      "name_category": "Sunset",
+      "title":"Sunset",
+      "image":"https://i.pinimg.com/564x/6f/0b/0d/6f0b0d9e5b40d2baa5b0f30507917ff6.jpg","lock":false
+    },
+	{
+      "id": 43,
+      "name_category": "Sunset",
+      "title": "Sunset",
+      "image": "https://i.pinimg.com/564x/85/a1/5c/85a15c8eb7124bf386a8df07c496449b.jpg","lock":false
+    },
+	{
+      "id": 44,
+      "name_category": "Sunset",
+      "title": "Sunset",
+      "image": "https://i.pinimg.com/564x/a7/87/6a/a7876a34a6fb220e613bd70c29c8d0b0.jpg","lock":false
+    },
+    {
+      "id":45,
+      "name_category": "Sunset",
+      "title":"Sunset",
+      "image":"https://i.pinimg.com/564x/07/2d/91/072d91218e47d7d23369f56f6d2e1ac9.jpg","lock":false
+    },
+    {
+      "id":46,
+      "name_category": "Sunset",
+      "title":"Sunset",
+      "image":"https://i.pinimg.com/564x/68/c8/48/68c848cad12c4d96617746d2d850b904.jpg",
+      "lock":false
+    }
+  ]
+}
